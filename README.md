@@ -2,14 +2,16 @@
 
 👋 **Hi, I’m Dasun!**
 
-**C++ to → AI** | A C++ Engineer transitioning into AI to bridge high-performance computing to intelligent systems. Focused on SLMs, Edge AI, and AI Agents, I am reading on how to port C++’s power to AI applications where latency is critical.
+**C++ to → AI** | A C++ Engineer transitioning into AI.
+
+I'm deeply interested on SLMs, Edge AI, and Agents, as I want to port C++’s power to AI applications where latency is critical.
 
 🔍 Currently exploring:
 - Agentic AI for real-world automation (Azure AI ecosystem)
 - The "Electronic Arts" behind game engines & generative creativity
 - Edge-native AI (ONNX, Rust, embedded optimization)
 
-🤝 Let’s collaborate! I’m eager to contribute to open-source AI projects, research, or performance-critical AI integrations. Reach out if you’re building something cool!
+🤝 Let’s collaborate! I’m willing to contribute to your open-source AI project, research, or performance-critical AI integrations. Reach out if you’re building something cool!
 
 
 ## 📊 My Stats
