@@ -1,17 +1,17 @@
-# Hi there 👋
 
-Welcome to my GitHub profile!
+## 🙋‍♂️ About Me
 
-## 🚀 Introduction
+👋 **Hi, I’m Dasun!**
 
-I'm [Your Name], a passionate developer who loves building cool projects and learning new technologies. 
-- 🔭 I’m currently working on: [Your current project or area of focus]
-- 🌱 I’m currently learning: [Technologies you are learning]
-- 👯 I’m looking to collaborate on: [Open source/community projects]
-- 💬 Ask me about: [Your favorite tech/topics]
-- 📫 How to reach me: [Your email or social link]
-- 😄 Pronouns: [Your pronouns]
-- ⚡ Fun fact: [A fun fact about you]
+**C++ to → AI** | A C++ Engineer transitioning into AI to bridge high-performance computing with intelligent systems. Focused on SLMs, Edge AI, and AI Agents, I am reading on how to port C++’s power to AI applications where latency is critical.
+
+🔍 Currently exploring:
+●   Agentic AI for real-world automation (Azure AI ecosystem).
+●   The "Electronic Arts" behind game engines & generative creativity.
+●   Edge-native AI (ONNX, Rust, embedded optimization).
+
+🤝 Let’s collaborate! I’m eager to contribute to open-source AI projects, research, or performance-critical AI integrations. Reach out if you’re building something cool!
+
 
 ## 📊 My Stats
 
