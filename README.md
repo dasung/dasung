@@ -1,6 +1,6 @@
-## 🙋‍♂️ About Me
+## 🙋‍♂️ Hi, It's Me
 
-👋 **Hi, I’m Dasun!**
+👋 **I’m Dasun!**
 
 **C++ → AI** | "C++ Engineer by profession, transitioning into AI by passion."
 
