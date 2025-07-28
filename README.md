@@ -9,7 +9,7 @@
 - The "Electronic Arts" behind game engines & generative creativity
 - Edge AI where C++’s power meets in latency critical applications (ONNX, Rust, embedded optimization)
 
-🤝 Deeply passionate about C++ & AI’s intersection. Let’s connect for projects or research at the edge of performance!
+🤝 I'm also passionate about explore C++ & AI’s intersection. Feel free to connect on RnD at the edge of performance!
 
 ## 📊 My Stats
 
